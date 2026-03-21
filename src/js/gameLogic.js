@@ -1,4 +1,4 @@
-﻿export default function gameLogic(score) {
+export default function gameLogic(score) {
   if (score >= 100) {
     return 'victory';
   }

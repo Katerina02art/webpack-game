@@ -1,4 +1,4 @@
-﻿import gameLogic from '../js/gameLogic.js';
+import gameLogic from '../js/gameLogic.js';
 
 describe('gameLogic', () => {
   test('should return "victory" when score >= 100', () => {
